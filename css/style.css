@@ -1,0 +1,18 @@
+body,
+html {
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+}
+
+.header-logo {
+  font-size: 2em;
+}
+
+.btn-bg-coral {
+  background: coral;
+  border: 1px solid transparent;
+}
+
+.section-text {
+  font-size: 18px;
+}
